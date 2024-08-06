@@ -1,0 +1,24 @@
+header{
+  text-align:left;
+}
+
+img {
+  width: 10%;
+  height: 10%;
+}
+
+.detail-img-wrapper1 img {
+  width: 30px;
+}
+
+.detail-img-wrapper2 img {
+  width: 30px;
+}
+
+.detail-img-wrapper3 img {
+  width: 30px;
+}
+
+.clearfix {
+    margin-top: 70px;
+}

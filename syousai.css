@@ -1,0 +1,18 @@
+img {
+    width: 10%;
+    height: 10%;
+}
+
+.detail-img-wrapper {
+  width: 100px;
+  height: 100px;
+}
+
+.detail-img-wrapper img {
+  width: 150%;
+  height: 150%;
+}
+
+.clearfix {
+    margin-top: 70px;
+}
